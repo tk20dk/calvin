@@ -1,14 +1,14 @@
 (export (version D)
   (design
     (source /home/tk/tk20dk/calvin/kicad/calvin.sch)
-    (date "2021-03-27T20:58:41 CET")
+    (date "2021-04-10T20:26:11 CEST")
     (tool "Eeschema 5.1.9-73d0e3b20d~88~ubuntu20.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title Calvin)
         (company www.2-0.dk)
         (rev v1.00)
-        (date 2021-03-27)
+        (date 2021-04-10)
         (source calvin.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
